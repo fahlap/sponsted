@@ -145,7 +145,7 @@ br.clear {
 header{
 	padding: 45px;
 	/*background: linear-gradient(to left,#0E0E0E,#515151);*/
-	background: url(../images/honey.jpeg);
+	background-color:#000;
 }
 header h1{
 	color: #fff;
@@ -161,7 +161,7 @@ header h1{
 }
 #main section.content-item{
 	padding: 6.5% 0;
-	background: linear-gradient(to left,#0E0E0E,#515151);
+	background-color:#0E0E0E;
 }
 #main section.content-item img{
 	margin-right: 10%;
@@ -192,7 +192,7 @@ header h1{
 	color: #fff;
 }
 #main section.content-item.middle {
-	background: linear-gradient(to right,#FF2B06,#C92216,#f75f47);
+	background-color:#f75f47;
 }
 #main section.content-item.middle div h3{
 	color: #000;
@@ -213,7 +213,7 @@ header h1{
 	color: #fff;
 }
 footer{
-	background: url(../images/honey.jpeg);
+	background-color:#000;
 }
 footer section#top{
 	text-align: right;
