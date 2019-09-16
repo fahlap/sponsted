@@ -145,7 +145,7 @@ br.clear {
 header{
 	padding: 45px;
 	/*background: linear-gradient(to left,#0E0E0E,#515151);*/
-	background-color:#352c2c;
+	background-color:#110808;
 }
 header h1{
 	color: #fff;
@@ -199,6 +199,7 @@ header h1{
 }
 #main section.content-item.middle img{
 	margin-right: 0;
+	border:2px solid;
 }
 #main section.content-item.middle div.left{
 	float: left;
@@ -218,7 +219,7 @@ footer{
 footer section#top{
 	text-align: right;
 	padding: 45px;
-	background-color:#352c2c;
+	background-color:#110808;
 }
 footer section#top button.move{
 	background-color: #000;
