@@ -213,11 +213,12 @@ header h1{
 	color: #000;
 }
 footer{
-	background-color:#352c2c;
+	
 }
 footer section#top{
 	text-align: right;
 	padding: 45px;
+	background-color:#352c2c;
 }
 footer section#top button.move{
 	background-color: #000;
