@@ -222,7 +222,7 @@ footer section#top{
 	background-color:#110808;
 }
 footer section#top button.move{
-	background-color: #000;
+	background-color: #fff;
 	padding: 10px 25px;
 	border-radius: 15px;
 	-webkit-border-radius: 15px;
@@ -231,7 +231,7 @@ footer section#top button.move{
 	-o-border-radius: 15px;
 }
 footer section#top button.move a{
-	color: #fff;
+	color: #000;
 	font-family: american_captainregular;
         font-weight: bolder;
         font-size: large;
