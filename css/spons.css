@@ -231,8 +231,9 @@ footer section#top button.move{
 footer section#top button.move a{
 	color: #fff;
 	font-family: american_captainregular;
-    font-weight: bolder;
-    font-size: large;
+        font-weight: bolder;
+        font-size: large;
+	letter-spacing:3px;
 }
 footer section#bottom{
 	padding: 10px 0;
