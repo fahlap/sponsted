@@ -145,7 +145,7 @@ br.clear {
 header{
 	padding: 45px;
 	/*background: linear-gradient(to left,#0E0E0E,#515151);*/
-	background: url(images/honey.jpeg);
+	background: url(../images/honey.jpeg);
 }
 header h1{
 	color: #fff;
@@ -154,6 +154,7 @@ header h1{
 	font-size: 45px;
 	font-weight: bold;
 	font-family: american_captainregular;
+	letter-spacing:3px;
 }
 #main{
 
@@ -182,6 +183,7 @@ header h1{
 #main section.content-item div.right h3{
 	font-weight: bold;
 	font-family: american_captainregular;
+	letter-spacing:3px;
 }
 #main section.content-item div p{
 	font-family: sans-serif;
@@ -205,12 +207,13 @@ header h1{
 #main section.content-item.middle div.left h3{
 	font-weight: bold;
 	font-family: american_captainregular;
+	letter-spacing:3px;
 }
 #main section.content-item.middle div.left p{
 	color: #fff;
 }
 footer{
-	background: url(images/honey.jpeg);
+	background: url(../images/honey.jpeg);
 }
 footer section#top{
 	text-align: right;
