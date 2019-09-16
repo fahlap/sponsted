@@ -145,7 +145,7 @@ br.clear {
 header{
 	padding: 45px;
 	/*background: linear-gradient(to left,#0E0E0E,#515151);*/
-	background-color:#4c3838;
+	background-color:#352c2c;
 }
 header h1{
 	color: #fff;
@@ -213,7 +213,7 @@ header h1{
 	color: #000;
 }
 footer{
-	background-color:#4c3838;
+	background-color:#352c2c;
 }
 footer section#top{
 	text-align: right;
