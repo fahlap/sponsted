@@ -205,16 +205,12 @@ header h1 {
 #main section.content-item img {
 	margin-right: 0;
 }
-#main section.content-item.vg{
+#main section.content-item.vg div{
 	margin-top:38.6px;
 }
-#main section.content-item div {
-	float: none;
-}
-
-#main section.content-item div.right {
-	float: right;
-	padding-right: 10%;
+#main section.content-item div.left {
+	float: left;
+	padding-left: 10%;
 	margin-top: 45.50px;
 }
 
